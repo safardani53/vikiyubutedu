@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vikiyubutedu.pages.dev/sitemap.xml
